@@ -4,7 +4,8 @@
   "description": "",
   "main": "script.js",
   "dependencies": {
-    "frida": "^14.2.12"
+    "frida": "^14.2.12",
+    "frida-mono-api": "0.0.5"
   },
   "devDependencies": {
     "@types/frida-gum": "^16.2.0",
